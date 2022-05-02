@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\rodri\\\\OneDrive\\\\Área de Trabalho\\\\front-captcha-login\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_11cb16f7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\rodri\\\\OneDrive\\\\Área de Trabalho\\\\front-captcha-login\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_55504414"
+  }
+]
